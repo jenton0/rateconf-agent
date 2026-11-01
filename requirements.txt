@@ -1,0 +1,6 @@
+anthropic>=2.3
+pydantic>=2
+reportlab
+pytest
+# optional, for --sheet
+# gspread

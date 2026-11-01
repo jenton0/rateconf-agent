@@ -1,0 +1,5 @@
+loads.csv
+__pycache__/
+.pytest_cache/
+*.json
+.env
